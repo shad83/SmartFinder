@@ -1,7 +1,7 @@
 package com.xc.dto;
 
 public class PersonCustom {
-	
+	// test
 	String name;
 	String password;
 
